@@ -10,7 +10,7 @@ namespace IndSoftTestNuget03ThirdParty
   {
     public static string GetMyVersion()
     { 
-      return "ThirdPartyVer=3.1.1.107";
+      return "ThirdPartyVer=3.1.1.108";
     }
 
   }
