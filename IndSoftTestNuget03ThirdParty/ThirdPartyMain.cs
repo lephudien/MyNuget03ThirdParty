@@ -8,7 +8,7 @@ namespace IndSoftTestNuget03ThirdParty
 {
   public class ThirdPartyMain
   {
-    public string GetMyVersion()
+    public static string GetMyVersion()
     { 
       return "ThirdPartyVer=01";
     }
